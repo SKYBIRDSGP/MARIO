@@ -42,4 +42,4 @@ source install/setup.bash
 ```
 
 
-<p align="center"><img src="assets/DH_Simulation_Visulization.gif" width="800" height="500"></p>
+<p align="center"><img src="assets/dh_simulation_visulization.gif" width="800" height="500"></p>
