@@ -26,9 +26,7 @@ def generate_launch_description():
         executable='broadcaster.py'
     )
     return LaunchDescription([  
-        # load_joint_position_controller,
         python_node,
         rviz_launch,
-        # joint_state_publisher,
     ])
 

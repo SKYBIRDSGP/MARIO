@@ -13,6 +13,7 @@
   <buildtool_depend>std_msgs</buildtool_depend>
   <buildtool_depend>geometry_msgs</buildtool_depend>
   <buildtool_depend>rviz2</buildtool_depend>
+  <buildtool_depend>joint_state_publisher_gui</buildtool_depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
