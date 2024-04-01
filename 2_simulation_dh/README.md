@@ -43,3 +43,14 @@ source install/setup.bash
 
 
 <p align="center"><img src="assets/dh_simulation_visulization.gif" width="800" height="500"></p>
+
+
+* Now, open another terminal and run the following command, while the simulation still runs in the RVIZ
+```
+rqt_graph
+```
+* You should see this in the 'nodes only' mode.
+
+<p align="center"><img src="assets/rqt_graph.png" width="800" height="500"></p>
+
+* This graph  depicts the relationships between different nodes, topics, and services which are being used while running this program.
